@@ -4,6 +4,10 @@ Build a Facebook-like post-sharing app. This face detection app project is made 
 ## Installation
 npm install
 
+## Images
+Download below image to use it while running locally or you can download any image from Google and use it for same.
+https://user-images.githubusercontent.com/78761614/170862715-a003593c-e80c-44e8-8bb8-cf310987d621.jpeg
+
 ## Available Scripts
 
 In the project directory, you can run:
