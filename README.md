@@ -1,4 +1,8 @@
-# Facial-Recognition
+# Social Media
+Build a Facebook-like post-sharing app. This face detection app project is made using a free JavaScript library (face-api.js) and React.js.
+
+## Installation
+npm install
 
 ## Available Scripts
 
